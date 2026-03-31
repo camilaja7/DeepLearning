@@ -4,9 +4,9 @@ Desarrollar, implementar y evaluar diferentes modelos de deep learning para la c
 
 ### Objetivos específicos
 
-Preprocesar el texto de las reseñas mediante limpieza, tokenización, padding y construcción del vocabulario.
-Incorporar embeddings pre-entrenados GloVe para representar las palabras en un espacio vectorial semántico (transfer learning).
-Entrenar y evaluar un modelo con arquitectura Conv1D + GloVe para la clasificación de sentimientos.
-Entrenar y evaluar un modelo con arquitectura LSTM + GloVe para la clasificación de sentimientos.
-Entrenar y evaluar un modelo con arquitectura GRU + GloVe para la clasificación de sentimientos.
-Comparar el desempeño de los modelos utilizando métricas como accuracy, precision, recall y F1-score, analizando sus diferencias y capacidades para capturar información del texto.
+- Preprocesar el texto de las reseñas mediante limpieza, tokenización, padding y construcción del vocabulario.
+- Incorporar embeddings pre-entrenados GloVe para representar las palabras en un espacio vectorial semántico (transfer learning).
+- Entrenar y evaluar un modelo con arquitectura Conv1D + GloVe para la clasificación de sentimientos.
+- Entrenar y evaluar un modelo con arquitectura LSTM + GloVe para la clasificación de sentimientos.
+- Entrenar y evaluar un modelo con arquitectura GRU + GloVe para la clasificación de sentimientos.
+- Comparar el desempeño de los modelos utilizando métricas como accuracy, precision, recall y F1-score, analizando sus diferencias y capacidades para capturar información del texto.
